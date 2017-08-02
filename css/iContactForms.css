@@ -1,0 +1,61 @@
+.fficns_form_container{
+	padding: 10px 10px 10px 10px;
+	clear:both;
+}
+
+.fficns_headline{
+	font-size:36px;
+	text-align:center;
+}
+
+.fficns_message{
+	text-align:center;
+}
+
+.fficns_image{
+	margin:0 auto;
+}
+
+.fficns_image img{
+	display: inline-block;
+}
+
+.fficns_button{
+	text-align: center;
+	padding-top:10px;
+	padding-botom:10px;
+}
+
+.fficns_button .btn {
+  background: #8a8a8a;
+  -webkit-border-radius: 15;
+  -moz-border-radius: 15;
+  border-radius: 15px;
+  font-family: Arial;
+  color: #000000;
+  font-size: 20px;
+  padding: 3px 10px 3px 10px;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.fficns_name{
+	clear:both;
+	display: block;
+	margin:0 auto;
+}
+
+.fficns_email{
+	clear:both;
+	display: block;
+	margin:0 auto;
+}
+
+#fficns_name_field{
+	margin-bottom:10px;
+	
+}
+
+#fficns_email_field{
+	
+}
